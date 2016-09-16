@@ -1,0 +1,7 @@
+name: PedroHenrique.ninja
+url: http://pedrohenrique.ninja
+templateHTML: templates/default.html
+content: content
+output: html
+title:<PedroHenrique.ninja>
+
